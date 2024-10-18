@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=$HOME/scripts/screenshot.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Screenshot Script
+Name=Screenshot Script
+Comment[en_US]=Take screenshots every 10 seconds
+Comment=Take screenshots every 10 seconds
