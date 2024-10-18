@@ -1,5 +1,5 @@
-# xfce-auto-screenshot
-Create screenshots every 10sec on xfce for accountability purposes.
+# XFCE Auto Screenshot
+Create screenshots every 10sec on XFCE desktops for accountability purposes.
 
 ## Why?
 This is part of a larger initiative to add accountability to my digital life. Additionally, it has been occasionally useful to have access to old screen states for data-loss prevention. Also, as someone with ADHD, it's good to be aware of where my time went after "zoning out". Potentially, in the age of LLMs, this is going to serve even more benefit where we can elicit help on organizing our digital lives from LLMs by giving them access to our digital history (note: always use local LLMs for this, never commercial ones!).
